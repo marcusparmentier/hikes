@@ -1,0 +1,16 @@
+#hideSection2 {
+  display: none;
+}
+
+#hideSection4 {
+  display: none;
+}
+
+.clickHere {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickHere:hover {
+  text-decoration: underline;
+}
